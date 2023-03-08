@@ -57,6 +57,6 @@ Feedback form: https://forms.gle/TpLVX3KekqnAbmU49
 
 Any Follow up questions submit as issues on this repository. =)
 
-include: page 112 - 113 from manual
+//include: page 112 - 113 from manual
 how what when why where who
 
