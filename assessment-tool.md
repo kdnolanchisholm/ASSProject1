@@ -4,6 +4,10 @@ Kieran Nolan ASS Project 1 Training and Assessment Pathway_V5.docx - Google Docs
 Group email address: chisholmasscluster2023@googlegroups.com
 Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
+
+Written Questions:
+https://forms.gle/1mCz6i2jw7VfgtiH8
+
 Practical Task
 
 Jennifer Stephenson Project 1_STEP 7_Practical Task V1
