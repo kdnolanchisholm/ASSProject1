@@ -13,7 +13,7 @@ Practical Task
 
 [Jennifer Stephenson Project 1_STEP 7_Practical Task V1](https://docs.google.com/document/d/1EbQ9mr9im25FpZGL8MRu4bhFDn_PVbtP/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
-[Marrissa Blackburn Project 1_STEP 7_Practical Task V1]](https://docs.google.com/document/d/12AIgF1bXETWdh6e7g1iS9u7ZCw9jhMFx/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+[Marrissa Blackburn Project 1_STEP 7_Practical Task V1](https://docs.google.com/document/d/12AIgF1bXETWdh6e7g1iS9u7ZCw9jhMFx/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 [Natalie Vaccaro Project 1_STEP 7_Practical Task V1](https://docs.google.com/document/d/1-W2Dn_RbkE_DWs2fFCrN94yhgdE5EcnA/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
