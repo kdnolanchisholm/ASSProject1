@@ -2,7 +2,9 @@
 [Kieran Nolan ASS Project 1 Training and Assessment Pathway_V5.docx](https://docs.google.com/document/d/18WzniSgsHSfWYSudpVw3dQ7Cg85EapB5/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 Group email address: chisholmasscluster2023@googlegroups.com
+
 Google Drive Shared Folder: https://drive.google.com/drive/folders/1J4rWLZdMfQBpLFk53oG5u-Mbh2Yefj53?usp=sharing
+
 Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
 **assessment methods**
