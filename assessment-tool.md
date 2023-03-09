@@ -5,7 +5,7 @@ Group email address: chisholmasscluster2023@googlegroups.com
 
 Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
-
+**assessment methods**
 Written Questions:
 https://forms.gle/1mCz6i2jw7VfgtiH8
 
@@ -41,17 +41,14 @@ Record of Assessment
 [Marrissa Blackburn Project 1_STEP 7_Record of Assessment Results V3](https://docs.google.com/document/d/1z66OKYbOF_Inqt0qa-Ua6Q5gifLc0YxK/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 
-
-
 Feedback form: https://forms.gle/TpLVX3KekqnAbmU49
 
+**how the assessment will be administered**
 
+ **sequence of assessment activities**
+ 
 
-Any Follow up questions submit as issues on this repository. =)
-
-//include: page 112 - 113 from manual
 how what when why where who
 
-reference: 
-https://user-images.githubusercontent.com/112054257/223624901-f82fb2d8-9f87-41ae-b6a9-b253b8cefa84.mp4
+
 
