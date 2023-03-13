@@ -35,6 +35,13 @@ Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
 **Practical Task**
 
+1. The candidate has 30 minutes to complete the tasks
+2. The candidate to send/receive and archive 1 email.
+3. The candidate must post complete 2 forum posts on moodle and
+respond to both forum posts.
+4. Candidates must supply evidence of tasks being (screenshots in your Google Drive folder) https://drive.google.com/drive/folders/1J4rWLZdMfQBpLFk53oG5u-Mbh2Yefj53?usp=sharing
+
+
 [Natalie Vaccaro Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962072/Natalie.Vaccaro.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
 
 [Alice Barbara Moxon Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962073/Alice.Barbara.Moxon.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
