@@ -35,13 +35,15 @@ Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
 **Observation**
 
-[Alice Barbara Moxon Project 1_STEP 7_Observation Checklist V3](https://docs.google.com/document/d/1j_1Oaiio9R9vpta33tFo-JouRuF9_DS_/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+[Natalie Vaccaro Project 1_STEP 7_Observation Checklist V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962151/Natalie.Vaccaro.Project.1_STEP.7_Observation.Checklist.V3.docx.pdf)
 
-[Jennifer Stephenson Project 1_STEP 7_Observation Checklist V3](https://docs.google.com/document/d/12W3mLRE3d2WQBwS5PLz_ILafXW3NABrW/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+[Marrissa Blackburn Project 1_STEP 7_Observation Checklist V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962153/Marrissa.Blackburn.Project.1_STEP.7_Observation.Checklist.V3.docx.pdf)
 
-[Natalie Vaccaro Project 1_STEP 7_Observation Checklist V3](https://docs.google.com/document/d/1VEHvjt8IR3qBn2xezr7_1WpcFCnhL2Jc/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+[Jennifer Stephenson Project 1_STEP 7_Observation Checklist V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962154/Jennifer.Stephenson.Project.1_STEP.7_Observation.Checklist.V3.docx.pdf)
 
-[Marrissa Blackburn Project 1_STEP 7_Observation Checklist V3](https://docs.google.com/document/d/12h8jonwZPTLHNdRL4HpT1edyyFVkCw3i/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+[Alice Barbara Moxon Project 1_STEP 7_Observation Checklist V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962155/Alice.Barbara.Moxon.Project.1_STEP.7_Observation.Checklist.V3.docx.pdf)
+
+
 
 
 **Record of Assessment**
