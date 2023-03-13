@@ -1,4 +1,8 @@
 # ASSProject1
+
+shorturl.at/nvMQV
+
+
 [Kieran Nolan ASS Project 1 Training and Assessment Pathway_V5.docx](https://docs.google.com/document/d/18WzniSgsHSfWYSudpVw3dQ7Cg85EapB5/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 Group email address: chisholmasscluster2023@googlegroups.com
@@ -45,7 +49,6 @@ Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
 
 
-
 **Record of Assessment**
 
 [Jennifer Stephenson Project 1_STEP 7_Record of Assessment Results V](https://docs.google.com/document/d/1frWjztM8NtZ-6vn92uZBZn3kGyINZNOD/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
@@ -59,13 +62,6 @@ Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
 Feedback form: https://forms.gle/TpLVX3KekqnAbmU49
 
-**how the assessment will be administered**
-
-
- **sequence of assessment activities**
- 
-
-how what when why where who
 
 
 
