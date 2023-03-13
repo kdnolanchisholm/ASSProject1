@@ -52,6 +52,16 @@ respond to both forum posts.
 
 
 **Observation**
+1. You have 15 minutes to complete this assessment.
+2. Please ensure your workstation is set up and ready with your email open ready
+to use.
+3. Set up a email signature
+4. Set up a small email group of three (3) people
+5. Send and receive one (1) email
+6. Archive three(3) email responses
+7. You may seek clarification regarding the use of your mobile phone during the
+assessment.
+
 
 [Natalie Vaccaro Project 1_STEP 7_Observation Checklist V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962151/Natalie.Vaccaro.Project.1_STEP.7_Observation.Checklist.V3.docx.pdf)
 
