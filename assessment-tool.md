@@ -1,6 +1,9 @@
 # ASSProject1
 
-shorturl.at/nvMQV
+shorturl.at/nvMQV <<---type this into your chrome browser on your computer
+
+
+[house keeping](https://docs.google.com/presentation/d/1AyzNiL2phj4UqAjSJfo6TfwsrEu25S7o402j36u6WEU/edit?usp=sharing)
 
 
 [Kieran Nolan ASS Project 1 Training and Assessment Pathway_V5.docx](https://docs.google.com/document/d/18WzniSgsHSfWYSudpVw3dQ7Cg85EapB5/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
@@ -19,7 +22,6 @@ Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 2. Responses must be typed
 3. This is an open book test
 4. All questions must be answered correctly.
-
 
 
 [Written Questions](https://docs.google.com/document/d/1UElGGGrblJkueQwMMyXElNzq75VK4ixn/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
