@@ -1,25 +1,31 @@
-# ASSProject1
+# ASS1
 
 shorturl.at/nvMQV <<---Type this into your chrome browser on your computer.
 
 tinyurl.com/3yraas3v <<---if the above one doens't bring up this page, then type this one instead :)
 
-
+--------------------------------------------------------------------------------------------------------------------
 
 [House keeping](https://docs.google.com/presentation/d/1AyzNiL2phj4UqAjSJfo6TfwsrEu25S7o402j36u6WEU/edit?usp=sharing)
 
+**LLN & Special Needs Suppport**
+
 [Speech to Text Support](https://support.google.com/docs/answer/4492226?hl=en)
+
 [Google Translate](https://translate.google.com/)
 
-[Kieran Nolan ASS Project 1 Training and Assessment Pathway_V5.docx](https://docs.google.com/document/d/18WzniSgsHSfWYSudpVw3dQ7Cg85EapB5/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+--------------------------------------------------------------------------------------------------------------------
 
 Group email address: chisholmasscluster2023@googlegroups.com
 
 Google Drive Shared Folder: https://drive.google.com/drive/folders/1J4rWLZdMfQBpLFk53oG5u-Mbh2Yefj53?usp=sharing
 
-Moodle forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
+Moodle Forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
-**assessment methods**
+--------------------------------------------------------------------------------------------------------------------
+
+
+**Assessment Methods**
 
 **Written Questions**
 
@@ -91,8 +97,8 @@ assessment.
 [Marrissa Blackburn Project 1_STEP 7_Record of Assessment Results V3](https://docs.google.com/document/d/1z66OKYbOF_Inqt0qa-Ua6Q5gifLc0YxK/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 
-Feedback form: https://forms.gle/TpLVX3KekqnAbmU49
+Feedback Form: https://forms.gle/TpLVX3KekqnAbmU49
 
 
-
+[Kieran Nolan ASS Project 1 Training and Assessment Pathway_V5.docx](https://docs.google.com/document/d/18WzniSgsHSfWYSudpVw3dQ7Cg85EapB5/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
