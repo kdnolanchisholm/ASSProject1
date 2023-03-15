@@ -35,16 +35,6 @@ Moodle Forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 4. All questions must be answered correctly.
 
 
-[Written Questions](https://docs.google.com/document/d/1UElGGGrblJkueQwMMyXElNzq75VK4ixn/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
-
-[Marrissa Blackburn Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961897/Marrissa.Blackburn.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
-
-[Jennifer Stephenson Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961903/Jennifer.Stephenson.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
-
-[Natalie Vaccaro Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961906/Natalie.Vaccaro.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
-
-[Alice Barbara Moxon Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961907/Alice.Barbara.Moxon.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
-
 
 **Practical Task**
 
@@ -62,6 +52,19 @@ respond to both forum posts.
 [Marrissa Blackburn Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962075/Marrissa.Blackburn.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
 
 [Jennifer Stephenson Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962076/Jennifer.Stephenson.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
+
+
+[Written Questions](https://docs.google.com/document/d/1UElGGGrblJkueQwMMyXElNzq75VK4ixn/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
+
+[Marrissa Blackburn Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961897/Marrissa.Blackburn.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
+
+[Jennifer Stephenson Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961903/Jennifer.Stephenson.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
+
+[Natalie Vaccaro Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961906/Natalie.Vaccaro.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
+
+[Alice Barbara Moxon Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961907/Alice.Barbara.Moxon.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
+
+
 
 
 **Observation**
