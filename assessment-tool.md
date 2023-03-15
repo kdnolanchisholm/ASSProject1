@@ -27,12 +27,7 @@ Moodle Forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
 **Assessment Methods**
 
-**Written Questions**
 
-1. You have 15 minutes to answer the following questions
-2. Responses must be typed
-3. This is an open book test
-4. All questions must be answered correctly.
 
 
 
@@ -53,7 +48,13 @@ respond to both forum posts.
 
 [Jennifer Stephenson Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962076/Jennifer.Stephenson.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
 
+**Written Questions**
 
+1. You have 15 minutes to answer the following questions
+2. Responses must be typed
+3. This is an open book test
+4. All questions must be answered correctly.
+5. 
 [Written Questions](https://docs.google.com/document/d/1UElGGGrblJkueQwMMyXElNzq75VK4ixn/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 [Marrissa Blackburn Project 1_STEP 7_Written Questions V3.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10961897/Marrissa.Blackburn.Project.1_STEP.7_Written.Questions.V3.docx.pdf)
