@@ -1,10 +1,8 @@
 # ASS1
 
-Unit Code 
- BSBTEC202
+**Unit Code:** BSBTEC202
  
-Unit Title
- Use digital technologies to communicate in a work environment
+**Unit Title:** Use digital technologies to communicate in a work environment
  
  --------------------------------------------------------------------------------------------------------------------
 
