@@ -54,6 +54,10 @@ Google Drive Shared Folder: https://drive.google.com/drive/folders/1J4rWLZdMfQBp
 
 Moodle Forum: https://moodle.chisholm.edu.au/mod/forum/view.php?id=1327992
 
+ [https://outlook.live.com/owa/](https://outlook.office365.com/)
+
+[Email Signature ](https://outlook.office365.com/mail/options/mail/messageContent/RoamingSignatureOptions)
+
 --------------------------------------------------------------------------------------------------------------------
 
 
