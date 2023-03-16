@@ -8,6 +8,15 @@ Unit Title
  
  --------------------------------------------------------------------------------------------------------------------
 
+[House Keeping](https://docs.google.com/presentation/d/1AyzNiL2phj4UqAjSJfo6TfwsrEu25S7o402j36u6WEU/edit?usp=sharing)
+
+**LLN & Special Needs Support**
+
+[Speech to Text Support](https://support.google.com/docs/answer/4492226?hl=en)
+
+[Google Translate](https://translate.google.com/)
+ --------------------------------------------------------------------------------------------------------------------
+
 **MR** = Meets Requirements and **FER** = Further Evidence Required 
 
 **Reason for the assessment:** KLC have asked to add BSBTEC202 as an elective in the qualification program. It's because everyone in the customer service team must communicate via email with external clients, internal colleagues, and clients through email and KLC forums. KLC uses Microsoft Outlook for emails and Moodle for staff development. All personnel use the forums frequently.
@@ -36,15 +45,7 @@ shorturl.at/nvMQV <<---Type this into your chrome browser on your computer.
 
 tinyurl.com/3yraas3v <<---if the above one doens't bring up this page, then type this one instead :)
 
---------------------------------------------------------------------------------------------------------------------
 
-[House Keeping](https://docs.google.com/presentation/d/1AyzNiL2phj4UqAjSJfo6TfwsrEu25S7o402j36u6WEU/edit?usp=sharing)
-
-**LLN & Special Needs Support**
-
-[Speech to Text Support](https://support.google.com/docs/answer/4492226?hl=en)
-
-[Google Translate](https://translate.google.com/)
 
 --------------------------------------------------------------------------------------------------------------------
 
