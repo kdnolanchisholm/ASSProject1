@@ -8,15 +8,15 @@ Unit Title
  
  --------------------------------------------------------------------------------------------------------------------
 
-MR = Meets Requirements and FER = Further Evidence Required 
+**MR** = Meets Requirements and **FER** = Further Evidence Required 
 
-Reason for the assessment: KLC asked to add BSBTEC202 as an elective in the qualification program. It's because everyone in the customer service team must communicate via email with external clients, internal colleagues, and clients through email and KLC forums. KLC uses Microsoft Outlook for emails and Moodle for staff development. All personnel use the forums frequently.
+**Reason for the assessment:** KLC asked to add BSBTEC202 as an elective in the qualification program. It's because everyone in the customer service team must communicate via email with external clients, internal colleagues, and clients through email and KLC forums. KLC uses Microsoft Outlook for emails and Moodle for staff development. All personnel use the forums frequently.
 
-Benchmark: is the ability to use Outlook and Moodle effectively and professionaly to KLC standards.
+**Benchmark:** is the ability to use Outlook and Moodle effectively and professionaly to KLC standards.
 
-Clothing: everyone here should be dressed professionally in order to take part in the assessment.
+**Clothing:** everyone here should be dressed professionally in order to take part in the assessment.
 
-Confidentiality: all information associated with this assessment will be completely confidential.
+**Confidentiality:** all information associated with this assessment will be completely confidential.
 
 **Rules of Evidence**
 
