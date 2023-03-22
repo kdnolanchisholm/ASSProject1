@@ -76,13 +76,13 @@ respond to both forum posts.
 4. Candidates must supply evidence of tasks being (screenshots in your Google Drive folder) https://drive.google.com/drive/folders/1J4rWLZdMfQBpLFk53oG5u-Mbh2Yefj53?usp=sharing
 
 
-[Natalie Vaccaro Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962072/Natalie.Vaccaro.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
+[Natalie Vaccaro Project 1_STEP 7_Practical Task V1.docx.pdf](https://docs.google.com/document/d/1ej9a43iL5S4n-HRGnhL2s_vVs4VhAtmv/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
-[Alice Barbara Moxon Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962073/Alice.Barbara.Moxon.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
+[Alice Barbara Moxon Project 1_STEP 7_Practical Task V1.docx.pdf](https://docs.google.com/document/d/1kT-iLYhZErBLkhfcTKHUpbwU-2R2Trov/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
-[Marrissa Blackburn Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962075/Marrissa.Blackburn.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
+[Marrissa Blackburn Project 1_STEP 7_Practical Task V1.docx.pdf](https://docs.google.com/document/d/1ZvhI4F6puYdl4zj4OV0Ftr9bqJ2OSzBk/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
-[Jennifer Stephenson Project 1_STEP 7_Practical Task V1.docx.pdf](https://github.com/kdnolanchisholm/ASSProject1/files/10962076/Jennifer.Stephenson.Project.1_STEP.7_Practical.Task.V1.docx.pdf)
+[Jennifer Stephenson Project 1_STEP 7_Practical Task V1.docx.pdf](https://docs.google.com/document/d/1EbQ9mr9im25FpZGL8MRu4bhFDn_PVbtP/edit?usp=sharing&ouid=112407030949213386815&rtpof=true&sd=true)
 
 **Observation**
 1. You have 15 minutes to complete this assessment.
